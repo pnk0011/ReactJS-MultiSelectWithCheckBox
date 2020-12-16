@@ -12,9 +12,9 @@
   "devDependencies": {
     "typescript": "3.8.3"
   },
-   "engines": {
-    "node": "8.1.x",
-    "npm": "5.0.x"
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
